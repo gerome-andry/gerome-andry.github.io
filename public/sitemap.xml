@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gerome-andry.github.io/blog/</loc>
-    <lastmod>2024-02-18T11:41:10+01:00</lastmod>
-  </url><url>
-    <loc>https://gerome-andry.github.io/</loc>
-    <lastmod>2024-02-18T11:41:10+01:00</lastmod>
-  </url><url>
-    <loc>https://gerome-andry.github.io/blog/post/</loc>
-    <lastmod>2024-02-18T11:41:10+01:00</lastmod>
-  </url><url>
     <loc>https://gerome-andry.github.io/data/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gerome-andry.github.io/data/data1/</loc>
+    <lastmod>2023-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gerome-andry.github.io/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gerome-andry.github.io/tags/keyword-10/</loc>
@@ -62,10 +56,24 @@
     <loc>https://gerome-andry.github.io/papers/paper1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://gerome-andry.github.io/blog/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+  </url><url>
+    <loc>https://gerome-andry.github.io/tags/data-assimilation/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+  </url><url>
+    <loc>https://gerome-andry.github.io/blog/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+  </url><url>
+    <loc>https://gerome-andry.github.io/tags/sbi/</loc>
+    <lastmod>1970-01-01T01:33:43+01:00</lastmod>
+  </url><url>
     <loc>https://gerome-andry.github.io/archive/</loc>
   </url><url>
     <loc>https://gerome-andry.github.io/location/</loc>
   </url><url>
     <loc>https://gerome-andry.github.io/officehours/</loc>
+  </url><url>
+    <loc>https://gerome-andry.github.io/search/</loc>
   </url>
 </urlset>

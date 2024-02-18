@@ -17,6 +17,9 @@ menu:
         - name: Blog
           url: blog/
           weight: 2
+        - name: Search  
+          url: /search/  
+          weight: 3
         # - name: Courses
         #   url: courses/
         #   weight: 2
@@ -80,21 +83,23 @@ params:
         - name: CV
           # url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:gandry@uliege.be
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=YZxxzigAAAAJ&hl=fr
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        - name: GitHub
+          url: https://github.com/gerome-andry
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        - name: Twitter
+          url: https://twitter.com/g4ndry
+        - name: Linkedin
+          url: https://www.linkedin.com/in/g%C3%A9r%C3%B4me-andry-012a35246/
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
@@ -118,3 +123,9 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+outputs:
+     home:
+         - HTML
+         - RSS
+         - JSON
