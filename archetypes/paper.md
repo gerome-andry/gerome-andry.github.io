@@ -15,6 +15,7 @@ cover:
 editPost:
     URL: "https://doi.org/paper_doi"
     Text: "Journal/Repository Name"
+showToc: true
 
 ---
 

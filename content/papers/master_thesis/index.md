@@ -13,27 +13,30 @@ cover:
 editPost:
     URL: "https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf"
     Text: "Matheo"
-
+showToc: true
 ---
-
----
-
-##### Download:
+## Resources
 
 - [Thesis](https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf)
 - [Code and data](https://github.com/gerome-andry/dasbi)
 
 ---
+## Abstract
 
-##### Summary:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Complex dynamical systems are found across various scientific disciplines, representing phenomena like atmospheric and oceanic behavior, brain activity, robot state
+in its environment, among many others. Due to the challenges that those systems
+may address, it is often impractical to observe their complete state, leading to the
+collection of partial observations. For instance, weather stations can only measure a
+limited number of variables like temperature and pressure, but not the entire state
+of the atmosphere. However, despite the limited nature of those observations, we
+can still use them to infer and deduce states that are consistent with the gathered
+data. By leveraging advanced inference methods, we can make predictions about
+the complete state of complex dynamical systems.
 
 ---
+##### Figure 1:  Data assimilation setup
 
-##### Figure X:  Figure title
-
-![](DA.png)
+<img src="DA.png" alt="pipeline" width="600"/>
 
 ---
 
