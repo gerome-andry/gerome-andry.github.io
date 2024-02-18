@@ -34,31 +34,13 @@
       <description>This undergraduate course presents many new things.</description>
     </item>
     
-    <item>
-      <title>Paper Title 2</title>
-      <link>https://gerome-andry.github.io/papers/paper2/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerome-andry.github.io/papers/paper2/</guid>
-      <description>This paper shows other things. Published in Journal Name, 2015.</description>
-    </item>
-    
-    <item>
-      <title>Paper Title 1</title>
-      <link>https://gerome-andry.github.io/papers/paper1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://gerome-andry.github.io/papers/paper1/</guid>
-      <description>This paper shows things. Published in Journal Name, 2012.</description>
-    </item>
-    
     
     <item>
       <title>Data Assimilation as Simulation-Based Inference (Master&#39;s thesis)</title>
-      <link>https://gerome-andry.github.io/blog/master_thesis/post/</link>
+      <link>https://gerome-andry.github.io/papers/master_thesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gerome-andry.github.io/blog/master_thesis/post/</guid>
+      <guid>https://gerome-andry.github.io/papers/master_thesis/</guid>
       <description>Paper description for search engines (less than 155 characters)</description>
     </item>
     

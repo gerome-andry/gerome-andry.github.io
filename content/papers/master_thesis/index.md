@@ -1,20 +1,18 @@
 ---
-title: "Post title (less than 70 characters)" 
-date: 2012-06-01
-url: /blog/
-aliases: 
-    - /old_url.html
-tags: ["keyword 1","keyword 2"]
-author: ["Paper Author 1", "Paper Author 2"]
+title: "Data Assimilation as Simulation-Based Inference (Master's thesis)" 
+date: 2024-18-02
+tags: ["SBI","data assimilation"]
+author: ["Andry Gérôme"]
+url: papers/master_thesis
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "Paper summary for list page (less than 265 characters)"
 cover:
-    image: "/paper_figure.png"
-    alt: "Figure from paper"
-    relative: false
+    image: "DA.png"
+    alt: "Data assimilation"
+    relative: true
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf"
+    Text: "Matheo"
 
 ---
 
@@ -22,9 +20,8 @@ editPost:
 
 ##### Download:
 
-- [Paper](/paper.pdf)
-- [Online appendix](/appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Thesis](https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf)
+- [Code and data](https://github.com/gerome-andry/dasbi)
 
 ---
 
@@ -36,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Figure X:  Figure title
 
-![](/figurex.png)
+![](DA.png)
 
 ---
 

@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
         - name: Blog
@@ -65,7 +65,7 @@ params:
           imageHeight: 160
           imageTitle: Gérôme Andry
           buttons:
-            - name: Papers
+            - name: Publications
               url: /papers/
             - name: Blog
               url: /blog/
@@ -108,7 +108,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Gérôme Andry"
       icon: favicon.ico
       iconHeight: 18
 
