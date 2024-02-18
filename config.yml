@@ -57,15 +57,15 @@ params:
           subtitle: "I'm a **PhD student** at University of Liège working on the use of 
     Deep Learning for Sciences. I mainly work with generative/probabilistic methods to address 
     model misspecification in **Simulation-based Inference**."
-          imageUrl: "picture.jpeg"
+          imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Gérôme Andry
           buttons:
             - name: Papers
-              url: papers/
+              url: /papers/
             - name: Blog
-              url: blog/
+              url: /blog/
             # - name: Courses
             #   url: courses/
             # - name: Data
@@ -78,7 +78,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          # url: cv.pdf
         - name: Email
           url: mailto:pascal.michaillat@gmail.com
         - name: Location
