@@ -1,6 +1,6 @@
 ---
 title: "Data Assimilation as Simulation-Based Inference (Master's thesis)" 
-date: 2023
+date: 2024-18-02
 url: /blog/
 aliases: 
     - /old_url.html
@@ -10,11 +10,11 @@ description: "Paper description for search engines (less than 155 characters)"
 summary: "Paper summary for list page (less than 265 characters)"
 cover:
     image: "DA.png"
-    alt: "Figure from paper"
+    alt: "Data assimilation"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf"
+    Text: "Matheo"
 
 ---
 
@@ -22,9 +22,8 @@ editPost:
 
 ##### Download:
 
-- [Paper](/paper.pdf)
-- [Online appendix](/appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Thesis](https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf)
+- [Code and data](https://github.com/gerome-andry/dasbi)
 
 ---
 
@@ -36,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ##### Figure X:  Figure title
 
-![](DA.png)
+![](paper1.png)
 
 ---
 
