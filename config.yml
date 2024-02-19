@@ -58,7 +58,9 @@ params:
           enabled: true
           title: Gérôme Andry
           subtitle: "I'm a **PhD student** at University of Liège working on the use of 
-    Deep Learning for Sciences. I mainly work with generative/probabilistic methods to address 
+    Deep Learning for Sciences.
+    <br/>
+    I mainly work with generative/probabilistic methods to address 
     model misspecification in **Simulation-based Inference**."
           imageUrl: "profile.jpg"
           imageWidth: 160
