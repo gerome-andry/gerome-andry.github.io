@@ -60,4 +60,4 @@ year = {Year}}
 
 ##### Related material
 
-+ [Presentation slides](/presentation.pdf)
++ [Presentation slides](Msc_thesis_Presentation.pdf)
