@@ -83,7 +83,7 @@ params:
             #   url: archive/
     socialIcons:
         - name: CV
-          # url: cv.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:gandry@uliege.be
         - name: Google Scholar
