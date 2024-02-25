@@ -17,9 +17,9 @@ menu:
         - name: Blog
           url: blog/
           weight: 2
-        - name: Search  
-          url: /search/  
-          weight: 3
+        # - name: Search  
+        #   url: /search/  
+        #   weight: 3
         # - name: Courses
         #   url: courses/
         #   weight: 2
@@ -126,8 +126,9 @@ markup:
         ordered: false
         startLevel: 2
 
-outputs:
-     home:
-         - HTML
-         - RSS
-         - JSON
+# for search
+# outputs:
+#      home:
+#          - HTML
+#          - RSS
+#          - JSON

@@ -19,6 +19,7 @@ showToc: true
 
 - [Thesis](https://matheo.uliege.be/bitstream/2268.2/18255/4/MSc_thesis_Gerome_ANDRY_2023.pdf)
 - [Code and data](https://github.com/gerome-andry/dasbi)
+- [Presentation slides](Msc_thesis_Presentation.pdf)
 
 ---
 ## Abstract
@@ -33,31 +34,30 @@ can still use them to infer and deduce states that are consistent with the gathe
 data. By leveraging advanced inference methods, we can make predictions about
 the complete state of complex dynamical systems.
 
----
 ##### Figure 1:  Data assimilation setup
 
 <img src="DA.png" alt="pipeline" width="600"/>
 
----
+## Task
 
-##### Citation
+## SBI &rarr; DA
 
-Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+## Methods
 
-```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title = {Title},
-volume = {Volume},
-year = {Year}}
-```
+## Evaluation
+
+## Results
 
 ---
 
-##### Related material
+##### References
 
-+ [Presentation slides](Msc_thesis_Presentation.pdf)
+I wanted to highlight here two fantastic papers about data assimilation using score-based models. I worked with the main author ([Francois Rozet](https://francois-rozet.github.io/)) during my thesis and he helped me a lot for the SBM part.
+
+The first paper draws the basics of **S**core-based **D**ata **A**ssimilation that infers full state trajectories by assimilating any differentiable observations in a zero-shot way. ([*link to paper*](https://doi.org/10.48550/arXiv.2306.10574))
+
+> *Rozet, F., & Louppe, G. (2023). Score-based Data Assimilation. ArXiv, abs/2306.10574.*
+
+The second one is a direct application of **SDA** for a large scale physical problem. It shows that the method scales consistently with clever architecture engineering. ([*link to paper*](https://doi.org/10.48550/arXiv.2310.01853))
+
+> *Rozet, F., & Louppe, G. (2023). Score-based Data Assimilation for a Two-Layer Quasi-Geostrophic Model. ArXiv, abs/2310.01853.*
