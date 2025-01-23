@@ -1,11 +1,9 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
-url: /paper/
-aliases: 
-    - /old_url.html
+title: "Title (less than 70 characters)" 
+date: {{ time.Now.Format "2006-01-02" }}
+url: /blog/
 tags: ["keyword 1","keyword 2"]
-author: ["Paper Author 1", "Paper Author 2"]
+author: ["Andry Gérôme"]
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "Paper summary for list page (less than 265 characters)"
 cover:

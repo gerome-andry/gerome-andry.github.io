@@ -6,7 +6,16 @@
     <description>Recent content on Gérôme Andry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gerome-andry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://gerome-andry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vulgarized diffusion models</title>
+      <link>https://gerome-andry.github.io/blog/diffusion/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gerome-andry.github.io/blog/diffusion/</guid>
+      <description>Paper description for search engines (less than 155 characters)</description>
+    </item>
+    
     <item>
       <title>Dataset Title</title>
       <link>https://gerome-andry.github.io/data/data1/</link>
