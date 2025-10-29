@@ -17,7 +17,9 @@ showToc: true
 
 ---
 <img src="banner.webp" alt="pipeline" width="600"/>
-THIS PAGE IS STILL WIP
+
+<p style="text-align: center;">THIS PAGE IS STILL WIP</p>
+
 ---
 
 <!-- ##### Download:

@@ -16,7 +16,8 @@ editPost:
 showToc: true
 
 ---
-WIP
+<p style="text-align: center;">THIS PAGE IS STILL WIP</p>
+
 ---
 
 <!-- ##### Download:
