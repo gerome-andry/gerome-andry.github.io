@@ -14,9 +14,9 @@ menu:
         - name: Publications
           url: papers/
           weight: 1
-        - name: Blog
-          url: blog/
-          weight: 2
+        # - name: Blog
+        #   url: blog/
+        #   weight: 2
         # - name: Search  
         #   url: /search/  
         #   weight: 3
@@ -32,7 +32,7 @@ menu:
 
 params:
     description: "I'm a PhD student at University of Liège working on the use of 
-    Deep Learning for sciences, specifically generative/probabilistic methods."
+    Deep Learning for sciences, specifically generative/probabilistic models."
     author: Gerome
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -60,8 +60,9 @@ params:
           subtitle: "I'm a **PhD student** at University of Liège working on the use of 
     Deep Learning for Sciences.
     <br/>
-    I mainly work with generative/probabilistic methods to address 
-    model misspecification in **Simulation-based Inference**."
+    I mainly work with generative models, especially diffusion models for posterior inference tasks. 
+    <br/>
+    I'm part of the [**SAIL**](https://glouppe.github.io/sail/) team under the supervision of [**Gilles Louppe**](https://glouppe.github.io)"
           imageUrl: "profile.jpg"
           imageWidth: 160
           imageHeight: 160
@@ -69,8 +70,8 @@ params:
           buttons:
             - name: Publications
               url: /papers/
-            - name: Blog
-              url: /blog/
+            # - name: Blog
+            #   url: /blog/
             # - name: Courses
             #   url: courses/
             # - name: Data

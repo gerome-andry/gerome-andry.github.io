@@ -19,7 +19,7 @@ Belgique
 
 #### Office address
 
-Room I.112  
+Room I.87b   
 B28 (Montefiore Institute)  
 University of Liège
 

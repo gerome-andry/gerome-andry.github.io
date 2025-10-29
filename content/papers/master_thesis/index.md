@@ -1,9 +1,9 @@
 ---
 title: "Data Assimilation as Simulation-Based Inference (Master's thesis)" 
 date: 2024-18-02
+url: papers/master_thesis
 tags: ["SBI","data assimilation"]
 author: ["Andry Gérôme"]
-url: papers/master_thesis
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "Paper summary for list page (less than 265 characters)"
 cover:
@@ -37,16 +37,6 @@ the complete state of complex dynamical systems.
 ##### Figure 1:  Data assimilation setup
 
 <img src="DA.png" alt="pipeline" width="600"/>
-
-## Task
-
-## SBI &rarr; DA
-
-## Methods
-
-## Evaluation
-
-## Results
 
 ---
 

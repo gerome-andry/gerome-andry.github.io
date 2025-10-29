@@ -1,7 +1,7 @@
 ---
 title: "Paper Title (less than 70 characters)" 
 date: {{ time.Now.Format "2006-01-02" }}
-url: /papers/
+url: /papers/new_paper
 tags: ["keyword 1","keyword 2"]
 author: ["Andry Gérôme"]
 description: "Paper description for search engines (less than 155 characters)" 
