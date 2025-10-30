@@ -1,6 +1,6 @@
 ---
 title: "Data Assimilation as Simulation-Based Inference (Master's thesis)" 
-date: 2024-18-02
+date: 2024-02-18
 url: papers/master_thesis
 tags: ["SBI","data assimilation"]
 author: ["Andry Gérôme"]

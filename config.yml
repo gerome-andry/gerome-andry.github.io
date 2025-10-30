@@ -1,11 +1,12 @@
 baseURL: "https://gerome-andry.github.io" 
 title: Gérôme Andry
-paginate: 16
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-
+pagination:
+  pagerSize: 20
+  
 taxonomies:
     tag: tags
 
