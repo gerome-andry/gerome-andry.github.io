@@ -10,12 +10,11 @@
 <meta name="description" content="TODO">
 <meta name="author" content="Andry Gérôme">
 <link rel="canonical" href="http://localhost:1313/papers/appa/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.0e0d16fb9cf73dd19c5c974308f8ca430337ddaa52a9f75b0101b998864b7cbf.css" integrity="sha256-Dg0W&#43;5z3PdGcXJdDCPjKQwM33apSqfdbAQG5mIZLfL8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.dc470c7fefa1e175cdaa5c858968a833be380617f6c805d76e604b0f658d5044.css" integrity="sha256-3EcMf&#43;&#43;h4XXNqlyFiWioM744Bhf2yAXXbmBLD2WNUEQ=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
 <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" hreflang="en" href="http://localhost:1313/papers/appa/">
@@ -38,9 +37,9 @@
     <meta property="article:modified_time" content="2025-10-29T00:00:00+00:00">
     <meta property="article:tag" content="Keyword 1">
     <meta property="article:tag" content="Keyword 2">
-    <meta property="og:image" content="http://localhost:1313/papers/appa/banner.webp">
+    <meta property="og:image" content="http://localhost:1313/papers/appa/banner.gif">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:1313/papers/appa/banner.webp">
+<meta name="twitter:image" content="http://localhost:1313/papers/appa/banner.gif">
 <meta name="twitter:title" content="Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation">
 <meta name="twitter:description" content="TODO">
 
@@ -75,10 +74,10 @@
   "keywords": [
     "keyword 1", "keyword 2"
   ],
-  "articleBody": " THIS PAGE IS STILL WIP\nAbstract: Deep learning has advanced weather forecasting, but accurate predictions first require identifying the current state of the atmosphere from observational data. We introduce Appa, a score-based data assimilation model generating global atmospheric trajectories at 0.25◦ resolution and 1-hour intervals. Powered by a 565M-parameter latent diffusion model trained on ERA5, Appa can be conditioned on arbitrary observations to infer posterior distributions of plausible states without retraining. Our probabilistic framework handles reanalysis, filtering, and forecast ing, within a single model, producing physically consistent reconstructions from various inputs. Results establish latent score-based data assimilation as a promising foundation for future global atmospheric modeling systems.\n",
+  "articleBody": "\nTHIS PAGE IS STILL WIP\nAbstract: Deep learning has advanced weather forecasting, but accurate predictions first require identifying the current state of the atmosphere from observational data. We introduce Appa, a score-based data assimilation model generating global atmospheric trajectories at 0.25◦ resolution and 1-hour intervals. Powered by a 565M-parameter latent diffusion model trained on ERA5, Appa can be conditioned on arbitrary observations to infer posterior distributions of plausible states without retraining. Our probabilistic framework handles reanalysis, filtering, and forecast ing, within a single model, producing physically consistent reconstructions from various inputs. Results establish latent score-based data assimilation as a promising foundation for future global atmospheric modeling systems.\n",
   "wordCount" : "107",
   "inLanguage": "en",
-  "image":"http://localhost:1313/papers/appa/banner.webp","datePublished": "2025-10-29T00:00:00Z",
+  "image":"http://localhost:1313/papers/appa/banner.gif","datePublished": "2025-10-29T00:00:00Z",
   "dateModified": "2025-10-29T00:00:00Z",
   "author":[{
     "@type": "Person",
@@ -101,14 +100,14 @@
 
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"></script>
+
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         renderMathInElement(document.body, {
-          
-          
           delimiters: [
             {left: '$$', right: '$$', display: true},
             {left: '$', right: '$', display: false},
@@ -120,7 +119,6 @@
             {left: "\\begin{gather}", right: "\\end{gather}", display: true},
             {left: "\\begin{CD}", right: "\\end{CD}", display: true},
           ],
-          
           throwOnError : false
         });
     });
@@ -142,7 +140,6 @@
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Gérôme Andry">
-             
                 <img src="http://localhost:1313/favicon.ico" alt="" aria-label="logo"
                     height="18"
                     width="18">Gérôme Andry</a>
@@ -167,8 +164,6 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
-                <ul class="lang-switch"><li>|</li>
-                </ul>
             </div>
         </div>
         <ul id="menu">
@@ -186,10 +181,10 @@
 <article class="post-single">
   <header class="post-header">
     <div class="breadcrumbs"><a href="http://localhost:1313/">Home</a>&nbsp;»&nbsp;<a href="http://localhost:1313/papers/">Papers</a></div>
-    <h1 class="post-title">
+    <h1 class="post-title entry-hint-parent">
       Appa: Bending Weather Dynamics with Latent Diffusion Models for Global Data Assimilation
     </h1>
-    <div class="post-meta">&lt;span title=&#39;2025-10-29 00:00:00 &#43;0000 UTC&#39;&gt;October 2025&lt;/span&gt;&amp;nbsp;&amp;middot;&amp;nbsp;Andry Gérôme&nbsp;&middot;&nbsp;<a href="https://doi.org/paper_doi" rel="noopener noreferrer" target="_blank">Journal/Repository Name</a>
+    <div class="post-meta"><span title='2025-10-29 00:00:00 +0000 UTC'>October 2025</span>&nbsp;&middot;&nbsp;Andry Gérôme&nbsp;&middot;&nbsp;<a href="https://doi.org/paper_doi" rel="noopener noreferrer" target="_blank">Journal/Repository Name</a>
 
 </div>
   </header> <div class="toc">
@@ -207,7 +202,7 @@
     </details>
 </div>
 
-  <div class="post-content"><img src="banner.webp" alt="pipeline" width="600"/>
+  <div class="post-content"><p><img alt="Banner forecast" loading="lazy" src="/papers/appa/banner.gif#center"></p>
 <p style="text-align: center;">THIS PAGE IS STILL WIP</p>
 <hr>
 <!-- ##### Download:
@@ -261,13 +256,11 @@ year = {Year}}
     </main>
     
 <footer class="footer">
-    &copy; 2025 Gérôme Andry
+    <span>&copy; 2025 Gérôme Andry</span> ·     
     <span>
-    &middot;  Powered by 
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">a modified version</a>
-         of 
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    Powered by 
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">hugo</a>, <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">papermod</a>, &amp;
+        <a href="https://github.com/pmichaillat/hugo-website/" rel="noopener" target="_blank">hugo-website</a>.
     </span>
 </footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">

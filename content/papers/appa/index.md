@@ -7,7 +7,7 @@ author: ["Andry Gérôme"]
 description: "TODO" 
 summary: "TODO"
 cover:
-    image: "banner.webp"
+    image: "banner.gif"
     alt: "Figure from appa"
     relative: true
 editPost:
@@ -16,7 +16,7 @@ editPost:
 showToc: true
 
 ---
-<img src="banner.webp" alt="pipeline" width="600"/>
+![Banner forecast](banner.gif#center)
 
 <p style="text-align: center;">THIS PAGE IS STILL WIP</p>
 

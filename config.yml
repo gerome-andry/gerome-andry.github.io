@@ -6,7 +6,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 pagination:
   pagerSize: 20
-  
+
 taxonomies:
     tag: tags
 
@@ -96,8 +96,8 @@ params:
           url: https://github.com/gerome-andry
         # - name: Substack
         #   url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/g4ndry
+        - name: Bluesky
+          url: https://bsky.app/profile/gandry.bsky.social
         - name: Linkedin
           url: https://www.linkedin.com/in/g%C3%A9r%C3%B4me-andry-012a35246/
         - name: Location
